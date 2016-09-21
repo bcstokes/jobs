@@ -1,0 +1,33 @@
+title: Senior Python Developer
+company: Franklin Bates
+url: http://franklinbates.com
+location: Newport, Wales, United Kingdom
+contract: contract
+contact:
+    name: Mr Ben Stokes
+    email: ben.stokes@franklinbates.com
+    phone: +44 7496 338229
+created: !!timestamp '2016-09-21' 
+tags:
+  - newport
+  - python
+  - cloud
+  - aws
+  - REST
+---
+
+# Overview
+
+Our client are looking to recruit a new Python developer for a new project which revolves around data transferrance.
+
+Candidates for this role should be fully proficient in Python and be willing to work alongside other developers to help build this application. 
+Cloud experience and exposure to any other languages (HTML/CSS/Javascript) is all beneficial but not essential.
+
+Please send a CV to the address above.
+
+# Role requirements
+
+* Python
+* REST
+* Cloud
+* AWS
